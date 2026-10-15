@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/carltongibson/django-filter/commit/daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
       "git:hexsha": "daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "26.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "26.2",
+      "repolex:parsedAt": "2026-10-15T08:59:17.611178+00:00"
     },
     {
       "@id": "https://repolex.ai/r/carltongibson/django-filter/commit/856af5f0c9c174b398fca0d024dbeef06985e12f",
