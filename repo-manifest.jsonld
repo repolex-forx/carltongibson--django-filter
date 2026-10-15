@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/carltongibson/django-filter/commit/daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
       "git:hexsha": "daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "26.2"
     },
     {
